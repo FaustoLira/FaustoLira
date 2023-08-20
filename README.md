@@ -1,4 +1,4 @@
-## I'm Fausto Lira and thanks for visiting my profile 😀  
+## I'm Fausto Lira and thanks for visiting my profile 😀 
 
 <br />
 
@@ -14,6 +14,22 @@ You can find me  👇🏻
 <a href = "mailto:faustoalira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/faustolira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-<br />
+---
+
+## :computer: Projects
+
+### Exploratory data analysis
+
+- [Analysis of Data Analyst job ads in the US on Linkedin Website](https://github.com/FaustoLira/web_scraping_linkedin_jobs_usa)
+- [Star wars survey](https://github.com/FaustoLira/star_wars_survey)
+- [Degrees granted to women from 1970 to 2012.](https://github.com/FaustoLira/percent_bachelors_degrees_women_usa)
+
+### Solving business problems using SQL queries
+
+- [Analyzing CIA Factbook data using SQL](https://github.com/FaustoLira/analyzing_cia_factbook_data_using_sql)
+- [Answering Business questions about a digital music store](https://github.com/FaustoLira/answering_business_questions_using_sql)
+---
+
+##  :bar_chart: Statistics
 
 [![Fausto's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaustoLira)](https://github.com/anuraghazra/github-readme-stats)
