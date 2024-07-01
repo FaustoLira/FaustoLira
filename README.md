@@ -5,7 +5,7 @@
 With solid knowledge in high-level mathematics and experience as a professor, I present myself as a technology professional focused on data analysis. In this case, I use mathematics/statistics together with technological tools (Python, SQL queries, Excel, and Power BI) to extract, treat and obtain insights (identifying anomalies, patterns, and correlations) of datasets, presenting results through dashboards.
 
 - I have a PhD in Mathematics from the University of São Paulo.
-- Currently studying the [Business and Advanced Analytics](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=c2ffe2e8-a927-4d0a-a64e-17e9b96aefaf) program at NBCC with an expected completion date of June 2024.
+- Completed [Business and Advanced Analytics](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=c2ffe2e8-a927-4d0a-a64e-17e9b96aefaf) program at NBCC, Saint John, Canada.
 
 <br />
 
