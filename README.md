@@ -28,6 +28,9 @@ You can find me  👇🏻
 
 - [Analyzing CIA Factbook data using SQL](https://github.com/FaustoLira/analyzing_cia_factbook_data_using_sql)
 - [Answering Business questions about a digital music store](https://github.com/FaustoLira/answering_business_questions_using_sql)
+
+### Machine Learning in R
+-[US-Arrests](https://github.com/FaustoLira/US-Arrests).
 ---
 
 ##  :bar_chart: Statistics
