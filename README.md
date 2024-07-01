@@ -31,7 +31,7 @@ You can find me  👇🏻
 
 ### Machine Learning in R
 
-- [US-Arrests](https://github.com/FaustoLira/US-Arrests).
+- [US-Arrests](https://github.com/FaustoLira/US-Arrests)
 
 ---
 
