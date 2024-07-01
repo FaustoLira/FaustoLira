@@ -30,7 +30,9 @@ You can find me  👇🏻
 - [Answering Business questions about a digital music store](https://github.com/FaustoLira/answering_business_questions_using_sql)
 
 ### Machine Learning in R
--[US-Arrests](https://github.com/FaustoLira/US-Arrests).
+
+- [US-Arrests](https://github.com/FaustoLira/US-Arrests).
+
 ---
 
 ##  :bar_chart: Statistics
