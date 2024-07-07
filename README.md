@@ -31,8 +31,19 @@ You can find me  👇🏻
 
 ### Machine Learning in R
 
+#### Clustering
+
 - [US-Arrests](https://github.com/FaustoLira/US-Arrests)
 
+### Machine Learning in Python
+
+#### Clustering
+
+- [K-Means-Clustering](https://github.com/FaustoLira/K-Means-Clustering)
+
+#### Regression
+
+- [ML-Algorithms](https://github.com/FaustoLira/ML-Algorithms)
 ---
 
 ##  :bar_chart: Statistics
