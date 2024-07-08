@@ -22,6 +22,10 @@ You can find me  👇🏻
 
 - [Inside Airbnb Toronto](https://github.com/FaustoLira/Inside-Airbnb-Toronto)
 
+### PowerPoint Presentations - Visualization and Storytelling Techniques
+
+- [FutureTech Hiring Strategy](https://github.com/FaustoLira/FutureTech---Hiring-Strategy)
+
 ### Exploratory data analysis
 
 - [(Power BI - Web scraping) Analysis of Data Analyst job ads in the US on Linkedin Website](https://github.com/FaustoLira/web_scraping_linkedin_jobs_usa)
