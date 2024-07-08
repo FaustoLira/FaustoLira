@@ -20,7 +20,7 @@ You can find me  👇🏻
 
 ### Business Intelligence with Power BI
 
-[Inside Airbnb Toronto](https://github.com/FaustoLira/Inside-Airbnb-Toronto)
+- [Inside Airbnb Toronto](https://github.com/FaustoLira/Inside-Airbnb-Toronto)
 
 ### Exploratory data analysis
 
