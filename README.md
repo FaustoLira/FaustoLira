@@ -26,7 +26,7 @@ You can find me  👇🏻
 
 - [FutureTech Hiring Strategy](https://github.com/FaustoLira/FutureTech---Hiring-Strategy)
 
-### Exploratory data analysis
+### Exploratory Data Analysis with Python 
 
 - [(Power BI - Web scraping) Analysis of Data Analyst job ads in the US on Linkedin Website](https://github.com/FaustoLira/web_scraping_linkedin_jobs_usa)
 - [Star wars survey](https://github.com/FaustoLira/star_wars_survey)
