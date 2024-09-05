@@ -41,7 +41,7 @@ You can find me  👇🏻
 
 #### Clustering
 
-- [K-Means Analysis of USA Crime Dynamics](https://github.com/FaustoLira/US-Arrests)
+- [USA Crime Dynamics](https://github.com/FaustoLira/US-Arrests)
 
 ### Machine Learning in Python
 
