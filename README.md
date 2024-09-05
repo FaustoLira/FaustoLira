@@ -1,10 +1,10 @@
 ## I'm Fausto Lira and thanks for visiting my profile 😀 
 
-### ABOUT ME
+#### ABOUT ME
 
 Results-driven Data Analyst with extensive experience in statistical analysis, predictive modeling, and data visualization. Proven expertise in leveraging Python, R, and SQL to extract actionable insights and drive strategic decision-making. Adept at using advanced tools such as Scikit-Learn and Power BI to deliver impactful data solutions. Strong background in academia and consultancy, with a track record of publishing research and enhancing data accuracy in institutional settings. Skilled in transforming complex datasets into clear, actionable recommendations for diverse stakeholders.
 
-### SKILLS
+#### SKILLS
 
 - **Data Collection:** API, Web Scraping
 - **Data Cleaning & Feature Engineering:** Handling Data Issues, Transform Data
@@ -15,7 +15,7 @@ Results-driven Data Analyst with extensive experience in statistical analysis, p
 - **Databases:** MS SQL Server, MongoDB
 - **BI & Visualization Tools:** Power BI (Power Query, DAX), MS Excel (Advanced Formulas)
 
-### PROFESSIONAL EXPERIENCE
+#### PROFESSIONAL EXPERIENCE
 
 **Math Professor and Consultant**  
 *Educational Institutions, Brazil*  
@@ -27,7 +27,7 @@ Results-driven Data Analyst with extensive experience in statistical analysis, p
 - **Cultivated strong leadership, communication, and teamwork skills** through extensive teaching experience, effectively mentoring students and collaborating with colleagues.
 
 
-### Education
+#### EDUCATION
 
 - **Post-Graduation in Business and Advanced Analytics**  
   *New Brunswick Community College, Canada*  
