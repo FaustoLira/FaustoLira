@@ -35,7 +35,7 @@ You can find me  👇🏻
 ### Solving business problems using SQL queries
 
 - [Analyzing CIA Factbook data using SQL](https://github.com/FaustoLira/analyzing_cia_factbook_data_using_sql)
-- [Answering Business questions about a digital music store](https://github.com/FaustoLira/answering_business_questions_using_sql)
+- [Business Insights for a Digital Music Store](https://github.com/FaustoLira/answering_business_questions_using_sql)
 
 ### Machine Learning in R
 
