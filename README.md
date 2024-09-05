@@ -1,11 +1,41 @@
 ## I'm Fausto Lira and thanks for visiting my profile 😀 
 
-<br />
+### ABOUT ME
 
-With solid knowledge in high-level mathematics and experience as a professor, I present myself as a technology professional focused on data analysis. In this case, I use mathematics/statistics together with technological tools (Python, SQL queries, Excel, and Power BI) to extract, treat and obtain insights (identifying anomalies, patterns, and correlations) of datasets, presenting results through dashboards.
+Results-driven Data Analyst with extensive experience in statistical analysis, predictive modeling, and data visualization. Proven expertise in leveraging Python, R, and SQL to extract actionable insights and drive strategic decision-making. Adept at using advanced tools such as Scikit-Learn and Power BI to deliver impactful data solutions. Strong background in academia and consultancy, with a track record of publishing research and enhancing data accuracy in institutional settings. Skilled in transforming complex datasets into clear, actionable recommendations for diverse stakeholders.
 
-- I have a PhD in Mathematics from the University of São Paulo.
-- Completed [Business and Advanced Analytics](https://nbcc.ca/programs-courses/program-details?baseCurriculumId=c2ffe2e8-a927-4d0a-a64e-17e9b96aefaf) program at NBCC, Saint John, Canada.
+### SKILLS
+
+- **Data Collection:** API, Web Scraping
+- **Data Cleaning & Feature Engineering:** Handling Data Issues, Transform Data
+- **Business Intelligence:** Dashboard Development, Data-Driven Insights and Recommendations
+- **Research & Reporting:** Academic Research, Data Summarization, Report Generation
+- **Technical Communication:** Data Storytelling, Visualization Techniques, Stakeholder Engagement
+- **Programming Languages:** SQL, Python, R
+- **Databases:** MS SQL Server, MongoDB
+- **BI & Visualization Tools:** Power BI (Power Query, DAX), MS Excel (Advanced Formulas)
+
+### PROFESSIONAL EXPERIENCE
+
+**Math Professor and Consultant**  
+*Educational Institutions, Brazil*  
+2006 - 2020
+
+- **Provided expert support in statistics and predictive modeling** for tech professionals, applying advanced mathematical techniques to real-world problems.
+- **Led and developed significant research projects** in Mathematics, with findings published in reputable academic journals.
+- **Utilized Excel extensively** within the University’s self-evaluation committee to clean and analyze data, significantly improving the accuracy of reporting and data presentation.
+- **Cultivated strong leadership, communication, and teamwork skills** through extensive teaching experience, effectively mentoring students and collaborating with colleagues.
+
+
+### Education
+
+- **Post-Graduation in Business and Advanced Analytics**  
+  *New Brunswick Community College, Canada*  
+  June 2014
+
+- **PhD in Mathematics**  
+  *University of São Paulo, Brazil*  
+  March 2015
 
 <br />
 
