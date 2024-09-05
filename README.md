@@ -51,7 +51,7 @@ You can find me  👇🏻
 
 #### Regression
 
-- [ML-Algorithms](https://github.com/FaustoLira/ML-Algorithms)
+- [Weather forecast in Seoul, South Korea](https://github.com/FaustoLira/Weather-forecast-in-Seoul-South-Korea)
 
 ---
 
