@@ -15,7 +15,7 @@ Results-driven Data Analyst with extensive experience in statistical analysis, p
 - **Databases:** MS SQL Server, MongoDB
 - **BI & Visualization Tools:** Power BI (Power Query, DAX), MS Excel (Advanced Formulas)
 
-You can see more details about education backgroud and professional experience [here](https://www.linkedin.com/in/faustolira) 
+You can see more details about education backgroud and professional experience [here](https://www.linkedin.com/in/faustolira).
 
 <br />
 
