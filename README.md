@@ -15,27 +15,7 @@ Results-driven Data Analyst with extensive experience in statistical analysis, p
 - **Databases:** MS SQL Server, MongoDB
 - **BI & Visualization Tools:** Power BI (Power Query, DAX), MS Excel (Advanced Formulas)
 
-#### PROFESSIONAL EXPERIENCE
-
-**Math Professor and Consultant**  
-*Educational Institutions, Brazil*  
-2006 - 2020
-
-- **Provided expert support in statistics and predictive modeling** for tech professionals, applying advanced mathematical techniques to real-world problems.
-- **Led and developed significant research projects** in Mathematics, with findings published in reputable academic journals.
-- **Utilized Excel extensively** within the University’s self-evaluation committee to clean and analyze data, significantly improving the accuracy of reporting and data presentation.
-- **Cultivated strong leadership, communication, and teamwork skills** through extensive teaching experience, effectively mentoring students and collaborating with colleagues.
-
-
-#### EDUCATION
-
-- **Post-Graduation in Business and Advanced Analytics**  
-  *New Brunswick Community College, Canada*  
-  June 2014
-
-- **PhD in Mathematics**  
-  *University of São Paulo, Brazil*  
-  March 2015
+You can see more details about education backgroud and professional experience [here](https://www.linkedin.com/in/faustolira) 
 
 <br />
 
