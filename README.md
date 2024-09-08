@@ -79,6 +79,10 @@ performance, and delivered critical insights into regional market preferences.
 #### Clustering
 
 - [K-Means-Clustering](https://github.com/FaustoLira/K-Means-Clustering)  
+**Objective:** application of the K-Means algorithm from Scikit-learn in Python to identify clusters in a synthetic dataset.  
+**Technical Components:** Created synthetic data with make_blobs, determined optimal clusters using Elbow and Silhouette methods, applied K-Means clustering, and evaluated performance with a confusion matrix.  
+**Impact:** Established a robust methodology for clustering analysis, providing data scientists and analysts with effective techniques for data segmentation and enhancing data-driven recommendations.    
+**Visuals:** Bar chart, line chart, scatter plot, and confusion matrix.
 
 #### Regression
 
