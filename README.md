@@ -27,7 +27,11 @@ You can find me  👇🏻
 
 ### PowerPoint Presentations - Visualization and Storytelling Techniques
 
-- [FutureTech Hiring Strategy](https://github.com/FaustoLira/FutureTech---Hiring-Strategy)
+- [FutureTech Hiring Strategy](https://github.com/FaustoLira/FutureTech---Hiring-Strategy)  
+**Objective:** Create a PowerPoint presentation to showcase new recruitment processes a company, focusing on enhancing diversity for the hiring director.    
+**Technical Components:** Applied advanced visualization and Gestalt principles to enhance a presentation.  
+**Impact:** Showcased successful recruitment campaigns with 27% of job offers exclusively to women and 41% to diverse groups, exceeding diversity targets.    
+**Visuals:** PowerPoint’s built-in bar charts, animations, SmartArt graphics, icons, and photos.    
 
 ### Exploratory Data Analysis with Python 
 
