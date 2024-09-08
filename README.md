@@ -46,13 +46,17 @@ You can find me  👇🏻
 - [Degrees granted to women from 1970 to 2012.](https://github.com/FaustoLira/percent_bachelors_degrees_women_usa)  
 **Objective:** Provide visualizations to support campaigns promoting women's advancement in universities and the workforce by highlighting gender gaps in bachelor's degree completion.  
 **Technical Components:** Developed a dashboard with line charts on gender gap trends using Matplotlib and Seaborn, optimizing visual clarity and effectiveness.  
-**Impact:** Highlighted Engineering and Computer Science as the most challenging fields for female inclusion, enabling the government to 
-design more targeted and cost-effective interventions.      
+**Impact:** Highlighted Engineering and Computer Science as the most challenging fields for female inclusion, enabling the government to design more targeted and cost-effective interventions.      
 **Visuals:** Multiple linecharts arranged in a matrix of subplots.    
 
 ### Solving business problems using SQL queries
 
 - [Analyzing CIA Factbook data using SQL](https://github.com/FaustoLira/analyzing_cia_factbook_data_using_sql)
+**Objective:** Analyze CIA World Factbook data, addressing questions on population size, land-to-water ratios, and countries with higher death than birth rates.    
+**Technical Components:** SQL in Jupyter Notebook with ipython-sql, using SELECT, WHERE, JOIN, ORDER BY, and aggregation functions.  
+**Impact:** Provided research institutes with enhanced understanding of global population dynamics and geographic data, supporting informed decision-making for strategic planning and sustainability public policies.    
+**Visuals:** Tables.  
+
 - [Business Insights for a Digital Music Store](https://github.com/FaustoLira/Business-Insights-for-a-Digital-Music-Store)
 
 ### Machine Learning in R
