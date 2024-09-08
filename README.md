@@ -43,7 +43,7 @@ You can find me  👇🏻
 
 <!-- [Star wars survey](https://github.com/FaustoLira/star_wars_survey) -->
 
-- [Degrees granted to women from 1970 to 2012.](https://github.com/FaustoLira/percent_bachelors_degrees_women_usa)
+- [Degrees granted to women from 1970 to 2012.](https://github.com/FaustoLira/percent_bachelors_degrees_women_usa)  
 **Objective:** Provide visualizations to support campaigns promoting women's advancement in universities and the workforce by highlighting gender gaps in bachelor's degree completion.  
 **Technical Components:** Developed a dashboard with line charts on gender gap trends using Matplotlib and Seaborn, optimizing visual clarity and effectiveness.  
 **Impact:** Highlighted Engineering and Computer Science as the most challenging fields for female inclusion, enabling the government to 
