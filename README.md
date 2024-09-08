@@ -51,7 +51,7 @@ You can find me  👇🏻
 
 ### Solving business problems using SQL queries
 
-- [Analyzing CIA Factbook data using SQL](https://github.com/FaustoLira/analyzing_cia_factbook_data_using_sql)
+- [Analyzing CIA Factbook data using SQL](https://github.com/FaustoLira/analyzing_cia_factbook_data_using_sql)  
 **Objective:** Analyze CIA World Factbook data, addressing questions on population size, land-to-water ratios, and countries with higher death than birth rates.    
 **Technical Components:** SQL in Jupyter Notebook with ipython-sql, using SELECT, WHERE, JOIN, ORDER BY, and aggregation functions.  
 **Impact:** Provided research institutes with enhanced understanding of global population dynamics and geographic data, supporting informed decision-making for strategic planning and sustainability public policies.    
@@ -69,6 +69,10 @@ performance, and delivered critical insights into regional market preferences.
 #### Clustering
 
 - [USA Crime Dynamics](https://github.com/FaustoLira/US-Arrests)
+**Objective:** Apply K-Means clustering to classify regions of the United States based on levels of violent crime.
+**Technical Components:** Performed data cleaning and preparation, univariate/bivariate analysis, optimized cluster numbers using Elbow and Silhouette methods, and used PCA to interpret clusters based on crime intensity.  
+**Impact:** Delivered actionable insights into crime patterns for security agencies and public policymakers, facilitating targeted interventions and efficient resource allocation to high-crime areas.    
+**Visuals:** Table, histogram, heatmap, scatter plot, and linechart.
 
 ### Machine Learning in Python
 
