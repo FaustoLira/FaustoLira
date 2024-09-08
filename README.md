@@ -57,7 +57,12 @@ You can find me  👇🏻
 **Impact:** Provided research institutes with enhanced understanding of global population dynamics and geographic data, supporting informed decision-making for strategic planning and sustainability public policies.    
 **Visuals:** Tables.  
 
-- [Business Insights for a Digital Music Store](https://github.com/FaustoLira/Business-Insights-for-a-Digital-Music-Store)
+- [Business Insights for a Digital Music Store](https://github.com/FaustoLira/Business-Insights-for-a-Digital-Music-Store)  
+**Objective:** Analyze the Chinook database to recommend new albums, evaluate employee sales performance, and assess sales by country.    
+**Technical Components:** Used ipython-sql in Jupyter Notebook to query the Chinook database with CREATE VIEW, SELECT with JOIN, and aggregation functions for analysis.  
+**Impact:** Improved sales and customer satisfaction through targeted album recommendations, optimized employee 
+performance, and delivered critical insights into regional market preferences.    
+**Visuals:** Database schema and tables.  
 
 ### Machine Learning in R
 
