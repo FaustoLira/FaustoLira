@@ -86,7 +86,11 @@ performance, and delivered critical insights into regional market preferences.
 
 #### Regression
 
-- [Weather forecast in Seoul, South Korea](https://github.com/FaustoLira/Weather-forecast-in-Seoul-South-Korea)  
+- [Weather forecast in Seoul, South Korea](https://github.com/FaustoLira/Weather-forecast-in-Seoul-South-Korea)
+**Objective:** Application of use machine learning techniques in Python to predict the average temperature for the next day in Seoul, South Korea.  
+**Technical Components:** Analyzed 7,000 rows and 23 columns, performed feature engineering and imputation with KNN, implemented various Scikit-learn and XGBoost regression models, and evaluated them using standard metrics and learning curves.  
+**Impact:** Achieved 93% coefficient of determination performance, delivering highly accurate weather forecasts that support better planning and decision-making for local authorities and businesses in Seoul.    
+**Visuals:** Table, histogram, and scatter plot. 
 
 ---
 
