@@ -68,7 +68,7 @@ performance, and delivered critical insights into regional market preferences.
 
 #### Clustering
 
-- [USA Crime Dynamics](https://github.com/FaustoLira/US-Arrests)
+- [USA Crime Dynamics](https://github.com/FaustoLira/US-Arrests)  
 **Objective:** Apply K-Means clustering to classify regions of the United States based on levels of violent crime.
 **Technical Components:** Performed data cleaning and preparation, univariate/bivariate analysis, optimized cluster numbers using Elbow and Silhouette methods, and used PCA to interpret clusters based on crime intensity.  
 **Impact:** Delivered actionable insights into crime patterns for security agencies and public policymakers, facilitating targeted interventions and efficient resource allocation to high-crime areas.    
@@ -78,11 +78,11 @@ performance, and delivered critical insights into regional market preferences.
 
 #### Clustering
 
-- [K-Means-Clustering](https://github.com/FaustoLira/K-Means-Clustering)
+- [K-Means-Clustering](https://github.com/FaustoLira/K-Means-Clustering)  
 
 #### Regression
 
-- [Weather forecast in Seoul, South Korea](https://github.com/FaustoLira/Weather-forecast-in-Seoul-South-Korea)
+- [Weather forecast in Seoul, South Korea](https://github.com/FaustoLira/Weather-forecast-in-Seoul-South-Korea)  
 
 ---
 
