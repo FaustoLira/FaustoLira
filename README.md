@@ -35,7 +35,13 @@ You can find me  👇🏻
 
 ### Exploratory Data Analysis with Python 
 
-- [(Power BI - Web scraping) Data Analyst Job Listings on LinkedIn](https://github.com/FaustoLira/web_scraping_linkedin_jobs_usa)
+- [Data Analyst Job Listings on LinkedIn](https://github.com/FaustoLira/web_scraping_linkedin_jobs_usa)  
+**Objective:** Analyze LinkedIn data on data analyst jobs in the USA to help an educational institute align its program with industry needs.  
+**Technical Components:** Web scraped 1,000 LinkedIn job postings using Selenium, cleaned and processed data with Pandas and NumPy, extracted tech terms with regular expressions, analyzed geographic distribution, and visualized results with Power BI.  
+**Impact:** The Power BI report visualizes market trends, skill requirements, and regional job openings to guide curriculum development and identify valuable internship opportunities.      
+**Visuals:** Power BI: heat map, stacked bar chart, clustered column chart, and cards.   
+
+
 - [Star wars survey](https://github.com/FaustoLira/star_wars_survey)
 - [Degrees granted to women from 1970 to 2012.](https://github.com/FaustoLira/percent_bachelors_degrees_women_usa)
 
