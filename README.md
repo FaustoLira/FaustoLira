@@ -4,17 +4,6 @@
 
 Results-driven Data Analyst with extensive experience in statistical analysis, predictive modeling, and data visualization. Proven expertise in leveraging Python, R, and SQL to extract actionable insights and drive strategic decision-making. Adept at using advanced tools such as Scikit-Learn and Power BI to deliver impactful data solutions. Strong background in academia and consultancy, with a track record of publishing research and enhancing data accuracy in institutional settings. Skilled in transforming complex datasets into clear, actionable recommendations for diverse stakeholders.
 
-#### SKILLS
-
-- **Data Collection:** API, Web Scraping
-- **Data Cleaning & Feature Engineering:** Handling Data Issues, Transform Data
-- **Business Intelligence:** Dashboard Development, Data-Driven Insights and Recommendations
-- **Research & Reporting:** Academic Research, Data Summarization, Report Generation
-- **Technical Communication:** Data Storytelling, Visualization Techniques, Stakeholder Engagement
-- **Programming Languages:** SQL, Python, R
-- **Databases:** MS SQL Server, MongoDB
-- **BI & Visualization Tools:** Power BI (Power Query, DAX), MS Excel (Advanced Formulas)
-
 You can see more details about education backgroud and professional experience [here](https://www.linkedin.com/in/faustolira).
 
 <br />
