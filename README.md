@@ -65,6 +65,10 @@ You can find me  👇🏻
 - **Impact:** Highlighted Engineering and Computer Science as the most challenging fields for female inclusion, enabling the government to design more targeted and cost-effective interventions.      
 - **Visuals:** Multiple linecharts arranged in a matrix of subplots.    
 
+<div style="text-align: center;">
+	<img alt="image" src="Images\percent_bachelors_degrees_women_usa\gender_gap.jpg"  width="400" height="auto" Title="Title">
+</div>
+
 ### Solving business problems using SQL queries
 
 [Analyzing CIA Factbook data using SQL](https://github.com/FaustoLira/analyzing_cia_factbook_data_using_sql)  
