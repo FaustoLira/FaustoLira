@@ -39,7 +39,8 @@ You can find me  👇🏻
 **Visuals:** PowerPoint’s built-in bar charts, animations, SmartArt graphics, icons, and photos.    
 
 <div style="text-align: center;">
-	<img alt="presentation_gif" src="FutureTech---Hiring-Strategy\presentation.gif"  width="400" height="auto">
+	<img alt="presentation_cover" src="Images\FutureTech---Hiring-Strategy\presentation_page-0001.jpg"  width="400" height="auto">
+	<img alt="presentation_cover" src="Images\FutureTech---Hiring-Strategy\presentation_page-0006.jpg"  width="400" height="auto">
 </div>
 
 ### Exploratory Data Analysis with Python 
@@ -49,6 +50,10 @@ You can find me  👇🏻
 **Technical Components:** Web scraped 1,000 LinkedIn job postings using Selenium, cleaned and processed data with Pandas and NumPy, extracted tech terms with regular expressions, analyzed geographic distribution, and visualized results with Power BI.  
 **Impact:** The Power BI report visualizes market trends, skill requirements, and regional job openings to guide curriculum development and identify valuable internship opportunities.      
 **Visuals:** Power BI: heat map, stacked bar chart, clustered column chart, and cards.   
+
+<div style="text-align: center;">
+	<img alt="report" src="Images\web_scraping_linkedin_jobs_usa\report.jpg"  width="400" height="auto">
+</div>
 
 <!-- [Star wars survey](https://github.com/FaustoLira/star_wars_survey) -->
 
