@@ -26,8 +26,8 @@ You can find me  👇🏻
 **Visuals:** Line chart, key influencers, slicer, heat map, table, matrix, bar chart, and pie chart.
 
 <div style="text-align: center;">
-<img alt="Airbnb-Toronto_cover" src="Images\Inside-Airbnb-Toronto/fausto_report_page-0001.jpg"  width="400" height="auto">
-<img alt="Airbnb-Toronto_analysis" src="Images\Inside-Airbnb-Toronto/fausto_report_page-0004.jpg"  width="400" height="auto">
+	<img alt="Airbnb-Toronto_cover" src="Images\Inside-Airbnb-Toronto/fausto_report_page-0001.jpg"  width="400" height="auto">
+	<img alt="Airbnb-Toronto_analysis" src="Images\Inside-Airbnb-Toronto/fausto_report_page-0004.jpg"  width="400" height="auto">
 </div>
 
 ### PowerPoint Presentations - Visualization and Storytelling Techniques
@@ -37,6 +37,10 @@ You can find me  👇🏻
 **Technical Components:** Applied advanced visualization and Gestalt principles to enhance a presentation.  
 **Impact:** Showcased successful recruitment campaigns with 27% of job offers exclusively to women and 41% to diverse groups, exceeding diversity targets.    
 **Visuals:** PowerPoint’s built-in bar charts, animations, SmartArt graphics, icons, and photos.    
+
+<div style="text-align: center;">
+	<img alt="presentation_gif" src="FutureTech---Hiring-Strategy\presentation.gif"  width="400" height="auto">
+</div>
 
 ### Exploratory Data Analysis with Python 
 
