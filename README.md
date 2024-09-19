@@ -105,8 +105,8 @@ performance, and delivered critical insights into regional market preferences.
 - **Visuals:** Bar chart, line chart, scatter plot, and confusion matrix.
 
 <div style="text-align: center;">
-	<img alt="elbow" src="Images\analyzing_cia_factbook_data_using_sql\elbow.png"  width="400" height="auto">
-	<img alt="clusers" src="Images\analyzing_cia_factbook_data_using_sql\clusters.png"  width="400" height="auto">
+	<img alt="elbow" src="Images\K-Means-Clustering\elbow.png"  width="400" height="auto">
+	<img alt="clusers" src="Images\K-Means-Clustering\clusters.png"  width="400" height="auto">
 </div>
 
 #### Regression
