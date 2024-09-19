@@ -113,7 +113,7 @@ performance, and delivered critical insights into regional market preferences.
 - **Visuals:** Table, histogram, and scatter plot. 
 
 <div style="text-align: center;">
-	<img alt="image" src="un_analysis.png"  width="400" height="auto" Title="Title">
+	<img alt="image" src="Images\Weather-forecast-in-Seoul-South-Korea\un_analysis.jpeg"  width="400" height="auto" Title="Title">
 </div>
 
 ---
