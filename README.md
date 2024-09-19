@@ -104,6 +104,11 @@ performance, and delivered critical insights into regional market preferences.
 - **Impact:** Established a robust methodology for clustering analysis, providing data scientists and analysts with effective techniques for data segmentation and enhancing data-driven recommendations.    
 - **Visuals:** Bar chart, line chart, scatter plot, and confusion matrix.
 
+<div style="text-align: center;">
+	<img alt="elbow" src="Images\analyzing_cia_factbook_data_using_sql\elbow.png"  width="400" height="auto">
+	<img alt="clusers" src="Images\analyzing_cia_factbook_data_using_sql\clusters.png"  width="400" height="auto">
+</div>
+
 #### Regression
 
 [Weather forecast in Seoul, South Korea](https://github.com/FaustoLira/Weather-forecast-in-Seoul-South-Korea)
