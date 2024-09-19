@@ -106,7 +106,7 @@ performance, and delivered critical insights into regional market preferences.
 
 <div style="text-align: center;">
 	<img alt="elbow" src="Images\K-Means-Clustering\elbow.png"  width="400" height="auto">
-	<img alt="clusers" src="Images\K-Means-Clustering\clusters.png"  width="400" height="auto">
+	<img alt="clusers" src="Images\K-Means-Clustering\clusters.png"  width="400" height="auto"> 
 </div>
 
 #### Regression
