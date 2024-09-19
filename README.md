@@ -21,7 +21,7 @@ You can find me  👇🏻
 
 [Inside Airbnb Toronto](https://github.com/FaustoLira/Inside-Airbnb-Toronto)  
 - **Objective:** Create a Power BI report analyzing the Airbnb market in Toronto for investors interested in entering the short-term rental market.  
-- **Technical Components:** ETL process in Power BI, star schema design, and DAX language.  
+- **Technical Components:** ETL process in Power and DAX language.  
 - **Impact:** Projected a 25% increase in rental prices and advised on optimal locations and rental types to guide stakeholder decisions.  
 - **Visuals:** Line chart, key influencers, slicer, heat map, table, matrix, bar chart, and pie chart.
 
