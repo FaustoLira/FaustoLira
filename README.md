@@ -112,6 +112,10 @@ performance, and delivered critical insights into regional market preferences.
 - **Impact:** Achieved 93% coefficient of determination performance, delivering highly accurate weather forecasts that support better planning and decision-making for local authorities and businesses in Seoul.    
 - **Visuals:** Table, histogram, and scatter plot. 
 
+<div style="text-align: center;">
+	<img alt="image" src="un_analysis.png"  width="400" height="auto" Title="Title">
+</div>
+
 ---
 
 ##  :bar_chart: Statistics
