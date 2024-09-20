@@ -66,7 +66,7 @@ You can find me  👇🏻
 - **Visuals:** Multiple linecharts arranged in a matrix of subplots.    
 
 <div style="text-align: center;">
-	<img alt="image" src="Images\percent_bachelors_degrees_women_usa\gender_gap.jpg"  width="400" height="auto" Title="Title">
+	<img alt="query" src="Images\Business-Insights-for-a-Digital-Music-Store\query.png""  width="400" height="auto" Title="Title">
 </div>
 
 ### Solving business problems using SQL queries
@@ -83,6 +83,10 @@ You can find me  👇🏻
 - **Impact:** Improved sales and customer satisfaction through targeted album recommendations, optimized employee 
 performance, and delivered critical insights into regional market preferences.    
 - **Visuals:** Database schema and tables.  
+
+<div style="text-align: center;">
+	<img alt="image" src="Images\percent_bachelors_degrees_women_usa\gender_gap.jpg"  width="400" height="auto" Title="Title">
+</div>
 
 ### Machine Learning in R
 
