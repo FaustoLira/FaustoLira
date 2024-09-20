@@ -66,7 +66,7 @@ You can find me  👇🏻
 - **Visuals:** Multiple linecharts arranged in a matrix of subplots.    
 
 <div style="text-align: center;">
-	<img alt="query" src="Images\Business-Insights-for-a-Digital-Music-Store\query.png""  width="400" height="auto" Title="Title">
+	<img alt="gap" src="Images\percent_bachelors_degrees_women_usa\gender_gap.jpg"  width="400" height="auto" Title="Title">
 </div>
 
 ### Solving business problems using SQL queries
@@ -77,6 +77,10 @@ You can find me  👇🏻
 - **Impact:** Provided research institutes with enhanced understanding of global population dynamics and geographic data, supporting informed decision-making for strategic planning and sustainability public policies.    
 - **Visuals:** Tables.  
 
+<div style="text-align: center;">
+	<img alt="query" src="Images\analyzing_cia_factbook_data_using_sql\query.png""  width="400" height="auto" Title="Title">
+</div>
+
 [Business Insights for a Digital Music Store](https://github.com/FaustoLira/Business-Insights-for-a-Digital-Music-Store)  
 - **Objective:** Analyze the Chinook database to recommend new albums, evaluate employee sales performance, and assess sales by country.    
 - **Technical Components:** Used ipython-sql in Jupyter Notebook to query the Chinook database with CREATE VIEW, SELECT with JOIN, and aggregation functions for analysis.  
@@ -85,7 +89,7 @@ performance, and delivered critical insights into regional market preferences.
 - **Visuals:** Database schema and tables.  
 
 <div style="text-align: center;">
-	<img alt="image" src="Images\percent_bachelors_degrees_women_usa\gender_gap.jpg"  width="400" height="auto" Title="Title">
+	<img alt="query" src="Images\Business-Insights-for-a-Digital-Music-Store\query.png""  width="400" height="auto" Title="Title">
 </div>
 
 ### Machine Learning in R
