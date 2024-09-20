@@ -94,6 +94,11 @@ performance, and delivered critical insights into regional market preferences.
 - **Impact:** Delivered actionable insights into crime patterns for security agencies and public policymakers, facilitating targeted interventions and efficient resource allocation to high-crime areas.    
 - **Visuals:** Table, histogram, heatmap, scatter plot, and linechart.
 
+<div style="text-align: center;">
+	<img alt="bivariate_analysis" src="Images\USA-Crime-Dynamics\bivariate_analysis.png"  width="400" height="auto">
+	<img alt="clusters" src="Images\USA-Crime-Dynamics\cluster_analysis.png"  width="400" height="auto"> 
+</div>
+
 ### Machine Learning in Python
 
 #### Clustering
