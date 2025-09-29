@@ -1,4 +1,4 @@
-## I'm Fausto Lira and thanks for visiting my profile 😀 
+## I’m Fausto Lira, thank you for visiting my portfolio. 😀 
 
 #### ABOUT ME
 
